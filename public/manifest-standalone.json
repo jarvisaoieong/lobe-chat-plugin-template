@@ -29,7 +29,7 @@
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
-    "title": "Chat Plugin Template",
+    "title": "Chat Plugin Template Standalone",
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "type": "standalone",

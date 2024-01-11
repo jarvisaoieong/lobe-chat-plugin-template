@@ -29,7 +29,7 @@
   "meta": {
     "avatar": "🚀",
     "tags": ["template"],
-    "title": "Chat Plugin Template",
+    "title": "Chat Plugin Template Markdown",
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "systemRole": "根据用户的心情，给用户推荐适合他穿的衣服，你需要知道他的性别后才进行推荐，否则推荐不准确。",
